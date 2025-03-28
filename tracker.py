@@ -4,7 +4,8 @@ import json
 from bs4 import BeautifulSoup
 
 # Website to track
-URL = "https://nimcet.admissions.nic.in/"
+# URL = "https://nimcet.admissions.nic.in/"
+URL = "https://rishabh709.github.io/Portfolio/"
 WEBHOOK_URL = "https://discord.com/api/webhooks/1355033640370704424/H3mqwauwtr9jvSwD-liFJFR0Q4qe9Drb3MttPvMRgtHkLuGac9DWiYGFNltQ_RLDNuuI"  # Replace with your Discord webhook URL
 
 # Store the previous hash in a text file
